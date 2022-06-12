@@ -28,7 +28,7 @@ education:
       institution: University of Murcia
       year: 2023
     - course: MSc Data Science
-      institution: University of Murcia & University of Santiago
+      institution: University of Murcia & University of Santiago de Compostela
       year: 2020
     - course: BSc in Computer Science
       institution: Moscow Power Engineering Institute

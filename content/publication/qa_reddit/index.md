@@ -9,7 +9,7 @@ authors:
   - José A. Ruipérez Valiente
   - Félix Gómez Mármol
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 doi: ''
 
 # Publication type.
@@ -25,8 +25,8 @@ publication_short: In *arXiv*
 links:
  - name: PDF
    url: ./publication/qa_reddit/example.pdf
- - name: Custom Link
-   url: http://example.org
+ - name: Link
+   url: https://arxiv.org/abs/2204.04098
 
 
 tags: []

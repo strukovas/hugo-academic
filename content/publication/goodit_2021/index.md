@@ -10,7 +10,7 @@ authors:
   - Félix Gómez Mármol
 
 date: '2021-09-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1145/3462203.3475905'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +25,8 @@ publication_short: In *GoodIT '21 - Proceedings of the Conference on Information
 links:
  - name: PDF
    url: ./publication/goodit_2021/example.pdf
- - name: Custom Link
-   url: http://example.org
+ - name: Link
+   url: https://dl.acm.org/doi/abs/10.1145/3462203.3475905
 
 tags: []
 
