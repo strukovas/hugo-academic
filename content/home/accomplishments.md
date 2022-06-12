@@ -40,8 +40,8 @@ item:
     title: Reviewer of the International Conference on Artificial Intelligence in Education (AIED)
     url: 
   - certificate_url: 
-    date_end: '2021-11-01'
-    date_start: '2022-01-01'
+    date_end: '2022-01-01'
+    date_start: '2021-11-01'
     description: ''
     organization: ML4SCI
     organization_url: https://ml4sci.org/
