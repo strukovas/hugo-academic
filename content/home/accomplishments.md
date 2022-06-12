@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-03-01'
     description: ''
     organization: LAK
     organization_url: https://www.solaresearch.org/events/lak/lak22/
@@ -33,20 +33,20 @@ item:
     url: ''
   - certificate_url: 
     date_end: ''
-    date_start: '2022-01-01'
+    date_start: '2022-07-01'
     description: 
     organization: AIED
     organization_url: https://iaied.org/
     title: Reviewer of the International Conference on Artificial Intelligence in Education (AIED)
     url: 
   - certificate_url: 
-    date_end: ''
-    date_start: '2021-12-01'
+    date_end: '2021-11-01'
+    date_start: '2022-01-01'
     description: ''
     organization: ML4SCI
     organization_url: https://ml4sci.org/
     title: Helping to organize the Machine Learning for Science (ML4SCI) 2021 Hackathon
-    url: ''
+    url: 'https://indico.cern.ch/event/1085878/'
 
 design:
   columns: '2'
