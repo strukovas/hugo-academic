@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: gsoc
     date_start: '2021-05-01'
-    date_end: '2021-08-01 '
+    date_end: '2021-08-01'
     description: |2-
         * Used machine learning techniques to identify relationships between planetary mapped datasets in order to provide a deeper understanding of planetary surfaces and to have predictive power for planetary surfaces with incomplete datasets.
         * Built interactive tool for analyzing the Moon. Ongoing effort towards publishing results.
