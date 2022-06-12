@@ -9,7 +9,7 @@ authors:
   - José A. Ruipérez Valiente
 
 date: '2022-05-01T00:00:00Z'
-doi: ''
+doi: '10.4018/978-1-6684-3996-8.ch005'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
