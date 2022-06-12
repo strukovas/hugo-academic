@@ -23,8 +23,8 @@ publication_short: In *GoodIT '21 - Proceedings of the Conference on Information
 
 # Custom links (uncomment lines below)
 links:
- - name: PDF
-   url: ./publication/goodit_2021/example.pdf
+ - name:
+   url:
  - name: Link
    url: https://dl.acm.org/doi/abs/10.1145/3462203.3475905
 

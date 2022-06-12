@@ -22,8 +22,8 @@ publication_short: In *Handbook of Research on New Media, Training, and Skill De
 
 # Custom links (uncomment lines below)
 links:
- - name: PDF
-   url: ./publication/goodit_2021/example.pdf
+ - name: 
+   url: 
  - name: Link
    url: https://www.igi-global.com/gateway/chapter/304231
 

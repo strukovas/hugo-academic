@@ -61,8 +61,8 @@ experience:
     date_end: '2020-08-01'
     description: A systematic review of novel approaches for applying ML to Medicine with a strong focus on COVID-19 spread prevention.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: University of Piraeus
     company_url: ''
     company_logo: piraeus
     date_start: '2019-10-01'

@@ -24,7 +24,7 @@ publication_short: In *arXiv*
 # Custom links (uncomment lines below)
 links:
  - name: PDF
-   url: ./publication/qa_reddit/example.pdf
+   url: https://arxiv.org/pdf/2204.04098.pdf
  - name: Link
    url: https://arxiv.org/abs/2204.04098
 

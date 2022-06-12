@@ -25,7 +25,7 @@ publication_short: In *VI Spanish Cybersecurity Research Conference*
 # Custom links (uncomment lines below)
 links:
  - name: PDF
-   url: ./publication/qa_reddit/example.pdf
+   url: https://ruidera.uclm.es/xmlui/bitstream/handle/10578/28662/52%20INVESTIGACI%C3%93N%20EN%20CIBERSEGURIDAD.pdf?sequence=1
  - name: Link
    url: https://ruidera.uclm.es/xmlui/handle/10578/28662
 
