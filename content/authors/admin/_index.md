@@ -24,14 +24,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computational Social Science
+      institution: University of Murcia
       year: 2023
     - course: MSc Data Science
-      institution: University of Murcia
+      institution: University of Murcia & University of Santiago
       year: 2020
     - course: BSc in Computer Science
-      institution: Massachusetts Institute of Technology
+      institution: Moscow Power Engineering Institute
       year: 2018
 
 # Social/Academic Networking
@@ -41,7 +41,7 @@ education:
 social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=y1fpxI0AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/strukovas
@@ -63,8 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sofia Strukova received the B.Sc. degree in computer science from Moscow Power Engineering Institute, Russia and M.Sc. degree in Big Data from the University of Murcia, Spain where she is currently pursuing the Ph.D. degree with the Department of Information and Communications Engineering.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
