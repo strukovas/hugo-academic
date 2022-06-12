@@ -31,21 +31,21 @@ item:
     organization_url: https://www.solaresearch.org/events/lak/lak22/
     title: Reviewer of the Learning Analytics and Knowledge (LAK) Conference
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2022-01-01'
+    description: 
+    organization: AIED
+    organization_url: https://iaied.org/
+    title: Reviewer of the International Conference on Artificial Intelligence in Education (AIED)
+    url: 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2021-12-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: ML4SCI
+    organization_url: https://ml4sci.org/
+    title: Helping to organize the Machine Learning for Science (ML4SCI) 2021 Hackathon
     url: ''
 
 design:
