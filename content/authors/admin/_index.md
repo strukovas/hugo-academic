@@ -65,4 +65,4 @@ highlight_name: true
 
 Sofia Strukova received the B.Sc. degree in computer science from Moscow Power Engineering Institute, Russia and M.Sc. degree in Big Data from the University of Murcia, Spain where she is currently pursuing the Ph.D. degree with the Department of Information and Communications Engineering.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
