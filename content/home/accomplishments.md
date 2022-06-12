@@ -27,8 +27,8 @@ item:
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
+    organization: LAK
+    organization_url: https://www.solaresearch.org/events/lak/lak22/
     title: Reviewer of the Learning Analytics and Knowledge (LAK) Conference
     url: ''
   - certificate_url: https://www.edx.org
