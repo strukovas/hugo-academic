@@ -9,7 +9,7 @@ authors:
   - José A. Ruipérez Valiente
   - Félix Gómez Mármol
 
-date: '2013-07-01T00:00:00Z'
+date: '2021-09-01T00:00:00Z'
 doi: ''
 
 # Publication type.
@@ -19,7 +19,7 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication_short: In *GoodIT 2021*
+publication_short: In *GoodIT '21 - Proceedings of the Conference on Information Technology for Social Good*
 
 # Custom links (uncomment lines below)
 links:

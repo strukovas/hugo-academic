@@ -53,23 +53,24 @@ experience:
         * Redesigned data scraping tool for gathering data of study programmes across Europe and integrated the extracted data in the internal search engine. The number of programs covered by the system expanded from 4.000 to 20.000.
         * Data analysis of user interest across programs based on multiple patterns, resulting in valuable insights for program discovery and advertised partners.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: Taipei Medical University
     company_url: ''
     company_logo: taiwan
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2020-06-01'
+    date_end: '2020-08-01'
+    description: A systematic review of novel approaches for applying ML to Medicine with a strong focus on COVID-19 spread prevention.
 
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: piraeus
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-10-01'
+    date_end: '2020-02-01'
+    description: |2-
+        * Developed novel time-series approach for link prediction in temporal graphs relying on Support Vector Machines.
+        * Achieved accuracy of up to 80% in link prediction relevant datasets such as IMDB. 
+
 
 design:
   columns: "1"

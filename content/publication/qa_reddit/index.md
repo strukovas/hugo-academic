@@ -19,7 +19,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication_short: In *TODO*
+publication_short: In *arXiv*
 
 # Custom links (uncomment lines below)
 links:
