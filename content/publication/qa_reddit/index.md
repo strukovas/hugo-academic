@@ -21,6 +21,8 @@ publication_types: ['3']
 # Publication name and optional abbreviated publication name.
 publication_short: In *arXiv*
 
+abstract: The irreplaceable key to the triumph of Question & Answer (Q&A) platforms is their users providing high-quality answers to the challenging questions posted across various topics of interest. Recently, the expert finding problem attracted much attention in information retrieval research. In this work, we inspect the feasibility of supervised learning model to identify data science experts in Reddit. Our method is based on the manual coding results where two data science experts labelled expert, non-expert and out-of-scope comments. We present a semi-supervised approach using the activity behaviour of every user, including Natural Language Processing (NLP), crowdsourced and user feature sets. We conclude that the NLP and user feature sets contribute the most to the better identification of these three classes It means that this method can generalise well within the domain. Moreover, we present different types of users, which can be helpful to detect various types of users in the future.
+
 # Custom links (uncomment lines below)
 links:
  - name: PDF
