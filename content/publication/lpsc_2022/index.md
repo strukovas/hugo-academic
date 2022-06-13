@@ -8,7 +8,7 @@ authors:
   - admin
   - Sergei Gleyzer
   - Patrick Peplowski
-  - Giorgos Pipilis
+  - Giorgios Pipilis
   - Jason Terry
 
 date: '2022-03-01T00:00:00Z'
