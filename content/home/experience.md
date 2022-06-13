@@ -59,7 +59,7 @@ experience:
     company_logo: taiwan
     date_start: '2020-06-01'
     date_end: '2020-08-01'
-    description: A systematic review of novel approaches for applying ML to Medicine with a strong focus on COVID-19 spread prevention.
+    description: A systematic review of novel approaches for applying ML to Medicine with a strong focus on COVID-19 spread prevention. <br><br>
 
   - title: Research Intern
     company: University of Piraeus
