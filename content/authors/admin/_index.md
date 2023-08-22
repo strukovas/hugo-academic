@@ -65,6 +65,6 @@ highlight_name: true
 
 I was born and raised in a vibrant and historic city Smolensk, Russia, and after living and working in several countries using various standards, I have a broad international outlook and perspective. Indeed, the environment in which I was brought up and the unique experiences it has given me, have shaped the creative and ambitious person that I am.
 
-I received the B.Sc. degree in computer science from Moscow Power Engineering Institute, Russia and M.Sc. degree in Big Data from the University of Murcia, Spain where I am currently pursuing the Ph.D. degree with the Department of Information and Communications Engineering.
+I received the B.Sc. degree in computer science from Moscow Power Engineering Institute, Russia and M.Sc. degree in Big Data from the University of Murcia, Spain where I am currently pursuing the Ph.D. degree with the Department of Information and Communications Engineering. I am also a member of the CyberDataLab in the University of Murcia.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

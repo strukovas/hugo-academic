@@ -26,8 +26,6 @@ abstract: During the last years, the constant cybersecurity breaches being repor
 
 # Custom links (uncomment lines below)
 links:
- - name: PDF
-   url: https://ruidera.uclm.es/xmlui/bitstream/handle/10578/28662/52%20INVESTIGACI%C3%93N%20EN%20CIBERSEGURIDAD.pdf
  - name: Link
    url: https://ruidera.uclm.es/xmlui/handle/10578/28662
 

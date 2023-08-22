@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: ETH Zurich
+    company_url: ''
+    company_logo: eth
+    date_start: '2023-01-01'
+    date_end: '2023-05-31'
+    description: |2-
+        * At Future Learning Initiative, I was analyzing the students’ problem-solving strategies in the introduction to data science course based on the screen recordings in order to understand the interplay of cognition and affect in open-ended and complex problem-solving.
+        * Ongoing effort towards publishing results.
+
   - title: Google Summer of Code Student
     company: Machine Learning for Science (ML4Sci)
     company_url: ''
@@ -31,7 +41,6 @@ experience:
     description: |2-
         * Used machine learning techniques to identify relationships between planetary mapped datasets in order to provide a deeper understanding of planetary surfaces and to have predictive power for planetary surfaces with incomplete datasets.
         * Built interactive tool for analyzing the Moon. Ongoing effort towards publishing results.
-
 
   - title: Deep Learning Research Intern
     company: University of Sydney
