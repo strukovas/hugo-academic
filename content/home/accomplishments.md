@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url:
+    date_end: '2023-06-10'
+    date_start: '2023-06-03'
+    description: ''
+    organization: EATEL
+    organization_url: https://ea-tel.eu/jtelss23
+    title: Participated in the Seventeenth EATEL Summer School on Technology Enhanced Learning
+    url: ''
+  - certificate_url:
     date_end: ''
     date_start: '2022-03-01'
     description: ''

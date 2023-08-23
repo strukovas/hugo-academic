@@ -32,6 +32,16 @@ experience:
         * At Future Learning Initiative, I was analyzing the students’ problem-solving strategies in the introduction to data science course based on the screen recordings in order to understand the interplay of cognition and affect in open-ended and complex problem-solving.
         * Ongoing effort towards publishing results.
 
+  - title: Data Science Intern
+    company: women++
+    company_url: ''
+    company_logo: 
+    date_start: '2022-10-01'
+    date_end: '2022-11-30'
+    description: |2-
+        * Together with my team, I worked on reconstructing the OpenEdu.ch educational platform for Switzerland.
+        * Created an ontological definition that describes the content found at OpenEdu.ch that will improve Wikidata learning material organization and reachability.
+
   - title: Google Summer of Code Student
     company: Machine Learning for Science (ML4Sci)
     company_url: ''
