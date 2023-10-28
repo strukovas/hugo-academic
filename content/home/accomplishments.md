@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+    - certificate_url:
+    date_end: ''
+    date_start: '2023-09-24'
+    description: 'Awardee of the Accesit in the third edition of the SCIE-ZONTA-SNGULAR awards. The main objective of this award is to recognize the outstanding contributions of women who are currently pursuing a doctoral program in computer science. In addition, it seeks to encourage their start in a research career and create references for new generations, thus contributing to reducing the gender gap in the field of computing in Spain.'
+    organization: SCIE-ZONTA-SNGULAR
+    organization_url: https://www.scie.es/resuelto-el-premio-scie-zonta-sngular-2023/
+    title: Award for the contribution of women pursuing doctoral studies in the area of computer science in Spain
+    url: ''
   - certificate_url:
     date_end: '2023-06-10'
     date_start: '2023-06-03'
     description: ''
     organization: EATEL
     organization_url: https://ea-tel.eu/jtelss23
-    title: Participated in the Seventeenth EATEL Summer School on Technology Enhanced Learning
+    title: Participant in the 17th Summer School on Technology Enhanced Learning
     url: ''
   - certificate_url:
     date_end: ''
@@ -37,7 +45,7 @@ item:
     description: ''
     organization: LAK
     organization_url: https://www.solaresearch.org/events/lak/lak22/
-    title: Reviewer of the Learning Analytics and Knowledge (LAK) Conference
+    title: Reviewer of the Learning Analytics and Knowledge Conference
     url: ''
   - certificate_url: 
     date_end: ''
@@ -45,7 +53,7 @@ item:
     description: 
     organization: AIED
     organization_url: https://iaied.org/
-    title: Reviewer of the International Conference on Artificial Intelligence in Education (AIED)
+    title: Reviewer of the International Conference on Artificial Intelligence in Education
     url: 
   - certificate_url: 
     date_end: '2022-01-01'
@@ -53,7 +61,7 @@ item:
     description: ''
     organization: ML4SCI
     organization_url: https://ml4sci.org/
-    title: Helping to organize the Machine Learning for Science (ML4SCI) 2021 Hackathon
+    title: Helping to organize the Machine Learning for Science 2021 Hackathon
     url: 'https://indico.cern.ch/event/1085878/'
 
 design:
