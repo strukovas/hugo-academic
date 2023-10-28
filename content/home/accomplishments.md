@@ -28,9 +28,9 @@ item:
     date_start: '2023-09-24'
     description: 'Awardee of the Accesit in the third edition of the SCIE-ZONTA-SNGULAR awards. The main objective of this award is to recognize the outstanding contributions of women who are currently pursuing a doctoral program in computer science. In addition, it seeks to encourage their start in a research career and create references for new generations, thus contributing to reducing the gender gap in the field of computing in Spain.'
     organization: SCIE-ZONTA-SNGULAR
-    organization_url: https://www.scie.es/resuelto-el-premio-scie-zonta-sngular-2023/
+    organization_url: 
     title: Award for the contribution of women pursuing doctoral studies in the area of computer science in Spain
-    url: ''
+    url: 'https://www.scie.es/resuelto-el-premio-scie-zonta-sngular-2023/'
   - certificate_url:
     date_end: '2023-06-10'
     date_start: '2023-06-03'
