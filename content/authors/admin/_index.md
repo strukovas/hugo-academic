@@ -20,13 +20,14 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Data Mining
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computational Social Science
       institution: University of Murcia
-      year: 2023
+      year: 2024
     - course: MSc Data Science
       institution: University of Murcia & University of Santiago de Compostela
       year: 2020
