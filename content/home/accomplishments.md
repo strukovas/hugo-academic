@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-    - certificate_url:
+  - certificate_url:
     date_end: ''
     date_start: '2023-09-24'
     description: 'Awardee of the Accesit in the SCIE-ZONTA-SNGULAR awards. Its main objective is to recognize the outstanding contributions of women who are currently pursuing a doctoral program in computer science. In addition, it seeks to encourage their start in a research career and create references for new generations, thus contributing to reducing the gender gap in the field of computing in Spain.'
