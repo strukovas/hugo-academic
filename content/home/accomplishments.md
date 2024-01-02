@@ -30,9 +30,8 @@ item:
     organization: SCIE-ZONTA-SNGULAR
     organization_url: 
     title: Award for the contribution of women pursuing doctoral studies in the area of computer science in Spain
-    url: 'https://www.scie.es/resuelto-el-premio-scie-zonta-sngular-2023/'
+    url: 'https://www.scie.es/entrega-del-premio-scie-zonta-sngular-2023/'
   - certificate_url:
-    date_end: '2023-06-10'
     date_start: '2023-06-03'
     description: ''
     organization: EATEL
@@ -40,11 +39,11 @@ item:
     title: Participant in the 17th Summer School on Technology Enhanced Learning
     url: ''
   - certificate_url:
-    date_end: ''
+    date_end: '2024-03-01'
     date_start: '2022-03-01'
     description: ''
     organization: LAK
-    organization_url: https://www.solaresearch.org/events/lak/lak22/
+    organization_url: https://www.solaresearch.org/events/lak/
     title: Reviewer of the Learning Analytics and Knowledge Conference
     url: ''
   - certificate_url: 
