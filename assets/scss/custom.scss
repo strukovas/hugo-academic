@@ -5,3 +5,19 @@
 .card-body {
 	padding-bottom: 0.25em !important;
 }
+
+/* Add right padding on desktop to balance the visual gap with the avatar column */
+@media (min-width: 992px) {
+	.article-style {
+		padding-right: 60px;
+	}
+}
+
+/* Justify text */
+.article-style p,
+.biography p,
+.card-text,
+.section-subheading,
+.pub-list-item {
+	text-align: justify;
+}
